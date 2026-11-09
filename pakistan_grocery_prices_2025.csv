@@ -1,0 +1,351 @@
+City,Item,Brand,Price_per_Kg_Litre,Date_Collected,Market/Source
+Karachi,Cooking Oil,Dalda,70.05,2025-04-28,Local Bazaar
+Quetta,Cooking Oil,Habib,477.88,2025-04-28,Imtiaz
+Islamabad,Onion,Green Valley,479.97,2025-04-28,Metro
+Islamabad,Cheeni (Sugar),Habib,297.59,2025-04-28,Al-Fatah
+Lahore,Salt (Namak),Uncle Farm,456.5,2025-04-28,Metro
+Lahore,Moong Dal,Shan,239.5,2025-04-28,Local Bazaar
+Peshawar,Chawal (Rice),Falak,215.97,2025-04-28,Imtiaz
+Peshawar,Masoor Dal,Dawat,149.35,2025-04-28,Local Bazaar
+Islamabad,Tomato,Organic Farms,480.25,2025-04-28,Chase Up
+Karachi,Onion,Organic Farms,366.01,2025-04-28,Metro
+Karachi,Cheeni (Sugar),Habib,236.68,2025-04-28,Al-Fatah
+Karachi,Moong Dal,Dawat,191.1,2025-04-28,Chase Up
+Karachi,Yogurt (Dahi),MilkPak,216.47,2025-04-28,Local Bazaar
+Peshawar,Tea (Chai),Vital,330.63,2025-04-28,Local Bazaar
+Lahore,Tomato,Organic Farms,437.65,2025-04-28,Al-Fatah
+Peshawar,Yogurt (Dahi),MilkPak,52.85,2025-04-28,Metro
+Lahore,Tea (Chai),Vital,235.8,2025-04-28,Imtiaz
+Quetta,Chawal (Rice),Falak,517.41,2025-04-28,Imtiaz
+Quetta,Chawal (Rice),Falak,519.55,2025-04-28,Imtiaz
+Peshawar,Salt (Namak),National,159.35,2025-04-28,Chase Up
+Peshawar,Masoor Dal,Shan,386.74,2025-04-28,Chase Up
+Peshawar,Eggs (Dozen),Organic,386.86,2025-04-28,Imtiaz
+Islamabad,Cheeni (Sugar),Habib,507.02,2025-04-28,Local Bazaar
+Karachi,Onion,Organic Farms,147.95,2025-04-28,Local Bazaar
+Karachi,Onion,Organic Farms,290.2,2025-04-28,Metro
+Karachi,Masoor Dal,Dawat,147.98,2025-04-28,Chase Up
+Peshawar,Chawal (Rice),Falak,293.17,2025-04-28,Metro
+Quetta,Cooking Oil,Dalda,543.38,2025-04-28,Local Bazaar
+Karachi,Chawal (Rice),Shehzad,58.06,2025-04-28,Metro
+Peshawar,Potato,Organic Farms,555.53,2025-04-28,Local Bazaar
+Karachi,Yogurt (Dahi),Nurpur,280.41,2025-04-28,Imtiaz
+Islamabad,Chawal (Rice),Guard,435.7,2025-04-28,Metro
+Islamabad,Doodh (Milk),Olpers,545.36,2025-04-28,Local Bazaar
+Peshawar,Doodh (Milk),MilkPak,133.47,2025-04-28,Imtiaz
+Karachi,Onion,Organic Farms,475.0,2025-04-28,Chase Up
+Karachi,Cooking Oil,Habib,62.67,2025-04-28,Imtiaz
+Peshawar,Masoor Dal,Himalaya,141.09,2025-04-28,Imtiaz
+Quetta,Yogurt (Dahi),Local,394.89,2025-04-28,Chase Up
+Karachi,Tea (Chai),Supreme,414.33,2025-04-28,Imtiaz
+Karachi,Cheeni (Sugar),Habib,188.22,2025-04-28,Metro
+Quetta,Doodh (Milk),Nurpur,51.61,2025-04-28,Imtiaz
+Quetta,Onion,Green Valley,74.49,2025-04-28,Local Bazaar
+Peshawar,Cooking Oil,Meezan,576.24,2025-04-28,Al-Fatah
+Islamabad,Potato,Local,103.85,2025-04-28,Chase Up
+Quetta,Potato,Organic Farms,342.56,2025-04-28,Al-Fatah
+Quetta,Tea (Chai),Vital,134.04,2025-04-28,Al-Fatah
+Lahore,Chawal (Rice),Guard,57.64,2025-04-28,Metro
+Islamabad,Moong Dal,Shan,456.0,2025-04-28,Local Bazaar
+Islamabad,Doodh (Milk),Olpers,256.7,2025-04-28,Chase Up
+Karachi,Chawal (Rice),Shehzad,206.85,2025-04-28,Chase Up
+Lahore,Onion,Organic Farms,355.55,2025-04-28,Local Bazaar
+Quetta,Chawal (Rice),Falak,426.16,2025-04-28,Metro
+Lahore,Eggs (Dozen),Farm Fresh,577.4,2025-04-28,Al-Fatah
+Lahore,Eggs (Dozen),Local,305.13,2025-04-28,Metro
+Lahore,Doodh (Milk),Olpers,162.11,2025-04-28,Al-Fatah
+Karachi,Masoor Dal,Shan,163.31,2025-04-28,Al-Fatah
+Karachi,Potato,Local,369.38,2025-04-28,Al-Fatah
+Islamabad,Doodh (Milk),MilkPak,204.71,2025-04-28,Imtiaz
+Islamabad,Potato,Green Valley,143.36,2025-04-28,Metro
+Peshawar,Tea (Chai),Vital,99.23,2025-04-28,Al-Fatah
+Islamabad,Potato,Local,419.71,2025-04-28,Metro
+Islamabad,Chicken,Local,432.35,2025-04-28,Imtiaz
+Karachi,Salt (Namak),National,150.1,2025-04-28,Metro
+Lahore,Tomato,Organic Farms,477.55,2025-04-28,Chase Up
+Karachi,Yogurt (Dahi),Local,86.99,2025-04-28,Chase Up
+Quetta,Masoor Dal,Himalaya,82.61,2025-04-28,Metro
+Quetta,Masoor Dal,Himalaya,438.83,2025-04-28,Al-Fatah
+Peshawar,Chawal (Rice),Guard,460.49,2025-04-28,Local Bazaar
+Quetta,Eggs (Dozen),Organic,445.95,2025-04-28,Al-Fatah
+Quetta,Eggs (Dozen),Organic,312.77,2025-04-28,Chase Up
+Lahore,Eggs (Dozen),Organic,399.81,2025-04-28,Imtiaz
+Quetta,Atta (Flour),Sunridge,149.52,2025-04-28,Local Bazaar
+Islamabad,Chawal (Rice),Guard,96.04,2025-04-28,Al-Fatah
+Peshawar,Potato,Organic Farms,383.29,2025-04-28,Chase Up
+Karachi,Cheeni (Sugar),Habib,593.47,2025-04-28,Imtiaz
+Lahore,Moong Dal,Uncle Farm,320.09,2025-04-28,Metro
+Islamabad,Moong Dal,Dawat,128.75,2025-04-28,Al-Fatah
+Quetta,Doodh (Milk),MilkPak,346.89,2025-04-28,Local Bazaar
+Quetta,Moong Dal,Uncle Farm,89.07,2025-04-28,Metro
+Quetta,Tea (Chai),Lipton,151.98,2025-04-28,Local Bazaar
+Islamabad,Tomato,Organic Farms,240.9,2025-04-28,Al-Fatah
+Peshawar,Chawal (Rice),Shehzad,104.98,2025-04-28,Al-Fatah
+Peshawar,Doodh (Milk),Olpers,157.79,2025-04-28,Imtiaz
+Quetta,Tea (Chai),Supreme,521.32,2025-04-28,Local Bazaar
+Lahore,Masoor Dal,Dawat,207.4,2025-04-28,Chase Up
+Lahore,Masoor Dal,Dawat,425.59,2025-04-28,Local Bazaar
+Islamabad,Yogurt (Dahi),Nurpur,311.19,2025-04-28,Al-Fatah
+Islamabad,Eggs (Dozen),Local,338.91,2025-04-28,Imtiaz
+Karachi,Potato,Green Valley,326.65,2025-04-28,Chase Up
+Peshawar,Atta (Flour),Ashrafi,340.35,2025-04-28,Local Bazaar
+Lahore,Atta (Flour),Ashrafi,85.35,2025-04-28,Imtiaz
+Lahore,Yogurt (Dahi),Local,415.41,2025-04-28,Al-Fatah
+Karachi,Chawal (Rice),Shehzad,332.19,2025-04-28,Al-Fatah
+Karachi,Atta (Flour),Sunridge,460.23,2025-04-28,Metro
+Quetta,Tomato,Green Valley,450.65,2025-04-28,Metro
+Karachi,Onion,Local,330.97,2025-04-28,Al-Fatah
+Lahore,Doodh (Milk),Olpers,316.29,2025-04-28,Metro
+Karachi,Yogurt (Dahi),Nurpur,177.74,2025-04-28,Imtiaz
+Karachi,Doodh (Milk),Nurpur,401.49,2025-04-28,Local Bazaar
+Peshawar,Eggs (Dozen),Organic,523.47,2025-04-28,Imtiaz
+Quetta,Cheeni (Sugar),Al-Noor,338.36,2025-04-28,Local Bazaar
+Karachi,Atta (Flour),Millat,448.39,2025-04-28,Local Bazaar
+Islamabad,Potato,Local,595.98,2025-04-28,Al-Fatah
+Islamabad,Doodh (Milk),Olpers,130.23,2025-04-28,Imtiaz
+Peshawar,Tea (Chai),Supreme,321.86,2025-04-28,Metro
+Karachi,Atta (Flour),Ashrafi,286.18,2025-04-28,Chase Up
+Peshawar,Potato,Green Valley,231.78,2025-04-28,Chase Up
+Peshawar,Eggs (Dozen),Farm Fresh,204.41,2025-04-28,Al-Fatah
+Karachi,Eggs (Dozen),Farm Fresh,517.9,2025-04-28,Al-Fatah
+Islamabad,Cooking Oil,Dalda,195.81,2025-04-28,Al-Fatah
+Quetta,Tomato,Green Valley,513.58,2025-04-28,Al-Fatah
+Islamabad,Yogurt (Dahi),Local,578.84,2025-04-28,Local Bazaar
+Islamabad,Chicken,Local,341.14,2025-04-28,Chase Up
+Quetta,Salt (Namak),Tibet,72.96,2025-04-28,Chase Up
+Islamabad,Onion,Organic Farms,561.14,2025-04-28,Al-Fatah
+Karachi,Eggs (Dozen),Local,325.42,2025-04-28,Al-Fatah
+Islamabad,Chawal (Rice),Shehzad,406.19,2025-04-28,Metro
+Karachi,Cooking Oil,Dalda,338.13,2025-04-28,Al-Fatah
+Karachi,Yogurt (Dahi),Nurpur,357.23,2025-04-28,Local Bazaar
+Quetta,Cooking Oil,Dalda,433.81,2025-04-28,Al-Fatah
+Karachi,Moong Dal,Uncle Farm,104.55,2025-04-28,Chase Up
+Lahore,Eggs (Dozen),Farm Fresh,440.79,2025-04-28,Metro
+Peshawar,Onion,Green Valley,299.41,2025-04-28,Local Bazaar
+Quetta,Onion,Organic Farms,299.4,2025-04-28,Imtiaz
+Lahore,Onion,Local,395.09,2025-04-28,Chase Up
+Islamabad,Cooking Oil,Meezan,173.97,2025-04-28,Imtiaz
+Karachi,Eggs (Dozen),Organic,226.67,2025-04-28,Local Bazaar
+Peshawar,Yogurt (Dahi),MilkPak,180.31,2025-04-28,Metro
+Karachi,Atta (Flour),Sunridge,487.26,2025-04-28,Al-Fatah
+Peshawar,Cooking Oil,Meezan,391.54,2025-04-28,Chase Up
+Lahore,Moong Dal,Uncle Farm,385.71,2025-04-28,Al-Fatah
+Peshawar,Moong Dal,Dawat,564.68,2025-04-28,Chase Up
+Lahore,Cooking Oil,Habib,263.75,2025-04-28,Al-Fatah
+Lahore,Tomato,Local,200.93,2025-04-28,Metro
+Karachi,Doodh (Milk),MilkPak,202.26,2025-04-28,Al-Fatah
+Peshawar,Tea (Chai),Vital,480.01,2025-04-28,Metro
+Islamabad,Cooking Oil,Dalda,536.2,2025-04-28,Metro
+Peshawar,Chawal (Rice),Guard,97.17,2025-04-28,Chase Up
+Peshawar,Tea (Chai),Vital,201.7,2025-04-28,Chase Up
+Peshawar,Cooking Oil,Habib,459.08,2025-04-28,Local Bazaar
+Lahore,Moong Dal,Dawat,120.93,2025-04-28,Metro
+Karachi,Potato,Organic Farms,135.54,2025-04-28,Local Bazaar
+Lahore,Masoor Dal,Shan,130.81,2025-04-28,Chase Up
+Islamabad,Masoor Dal,Dawat,581.69,2025-04-28,Al-Fatah
+Peshawar,Salt (Namak),National,201.68,2025-04-28,Imtiaz
+Quetta,Cooking Oil,Dalda,256.02,2025-04-28,Metro
+Islamabad,Cheeni (Sugar),Mehrban,190.15,2025-04-28,Al-Fatah
+Lahore,Eggs (Dozen),Farm Fresh,588.65,2025-04-28,Metro
+Lahore,Onion,Local,491.24,2025-04-28,Al-Fatah
+Karachi,Moong Dal,Uncle Farm,453.26,2025-04-28,Local Bazaar
+Peshawar,Chawal (Rice),Shehzad,365.21,2025-04-28,Imtiaz
+Lahore,Onion,Local,106.7,2025-04-28,Al-Fatah
+Karachi,Eggs (Dozen),Local,232.73,2025-04-28,Chase Up
+Lahore,Tomato,Green Valley,441.92,2025-04-28,Local Bazaar
+Quetta,Yogurt (Dahi),Local,424.96,2025-04-28,Local Bazaar
+Lahore,Eggs (Dozen),Organic,379.2,2025-04-28,Imtiaz
+Islamabad,Potato,Organic Farms,464.1,2025-04-28,Local Bazaar
+Lahore,Moong Dal,Dawat,103.14,2025-04-28,Al-Fatah
+Peshawar,Chawal (Rice),Shehzad,517.88,2025-04-28,Chase Up
+Quetta,Atta (Flour),Millat,158.99,2025-04-28,Metro
+Peshawar,Tea (Chai),Supreme,411.57,2025-04-28,Metro
+Lahore,Atta (Flour),Millat,353.53,2025-04-28,Imtiaz
+Karachi,Potato,Local,529.64,2025-04-28,Al-Fatah
+Peshawar,Chicken,Menu,259.61,2025-04-28,Metro
+Peshawar,Masoor Dal,Shan,417.49,2025-04-28,Imtiaz
+Quetta,Salt (Namak),Tibet,394.86,2025-04-28,Imtiaz
+Quetta,Moong Dal,Uncle Farm,340.4,2025-04-28,Imtiaz
+Islamabad,Chicken,Local,358.79,2025-04-28,Local Bazaar
+Islamabad,Atta (Flour),Millat,294.85,2025-04-28,Al-Fatah
+Islamabad,Chawal (Rice),Shehzad,437.29,2025-04-28,Al-Fatah
+Karachi,Chawal (Rice),Shehzad,374.88,2025-04-28,Metro
+Islamabad,Tomato,Organic Farms,355.1,2025-04-28,Local Bazaar
+Karachi,Eggs (Dozen),Local,154.89,2025-04-28,Imtiaz
+Peshawar,Chicken,K&N,410.49,2025-04-28,Local Bazaar
+Lahore,Masoor Dal,Himalaya,432.99,2025-04-28,Imtiaz
+Karachi,Doodh (Milk),MilkPak,252.52,2025-04-28,Al-Fatah
+Karachi,Masoor Dal,Himalaya,431.82,2025-04-28,Imtiaz
+Lahore,Potato,Green Valley,585.07,2025-04-28,Chase Up
+Peshawar,Salt (Namak),National,412.61,2025-04-28,Imtiaz
+Quetta,Masoor Dal,Shan,177.92,2025-04-28,Local Bazaar
+Lahore,Eggs (Dozen),Farm Fresh,436.52,2025-04-28,Metro
+Lahore,Chawal (Rice),Falak,394.44,2025-04-28,Local Bazaar
+Peshawar,Eggs (Dozen),Local,512.79,2025-04-28,Imtiaz
+Peshawar,Moong Dal,Dawat,228.56,2025-04-28,Chase Up
+Quetta,Eggs (Dozen),Organic,574.12,2025-04-28,Al-Fatah
+Lahore,Tea (Chai),Lipton,349.37,2025-04-28,Metro
+Peshawar,Cooking Oil,Meezan,394.83,2025-04-28,Chase Up
+Peshawar,Onion,Organic Farms,414.31,2025-04-28,Al-Fatah
+Islamabad,Cheeni (Sugar),Habib,298.44,2025-04-28,Local Bazaar
+Islamabad,Salt (Namak),National,332.03,2025-04-28,Imtiaz
+Lahore,Yogurt (Dahi),Local,475.75,2025-04-28,Imtiaz
+Peshawar,Chicken,K&N,474.34,2025-04-28,Al-Fatah
+Quetta,Onion,Organic Farms,285.9,2025-04-28,Local Bazaar
+Peshawar,Salt (Namak),Tibet,120.19,2025-04-28,Metro
+Karachi,Chicken,K&N,279.47,2025-04-28,Local Bazaar
+Peshawar,Masoor Dal,Himalaya,503.82,2025-04-28,Metro
+Islamabad,Atta (Flour),Ashrafi,183.28,2025-04-28,Imtiaz
+Peshawar,Cheeni (Sugar),Al-Noor,110.94,2025-04-28,Local Bazaar
+Islamabad,Onion,Green Valley,538.98,2025-04-28,Metro
+Quetta,Eggs (Dozen),Local,337.56,2025-04-28,Al-Fatah
+Lahore,Cooking Oil,Dalda,570.15,2025-04-28,Chase Up
+Karachi,Potato,Green Valley,516.09,2025-04-28,Metro
+Quetta,Chawal (Rice),Guard,325.71,2025-04-28,Local Bazaar
+Karachi,Chicken,Menu,579.99,2025-04-28,Local Bazaar
+Quetta,Atta (Flour),Millat,249.67,2025-04-28,Chase Up
+Lahore,Masoor Dal,Dawat,137.73,2025-04-28,Chase Up
+Lahore,Cooking Oil,Dalda,409.51,2025-04-28,Local Bazaar
+Karachi,Cheeni (Sugar),Mehrban,312.82,2025-04-28,Al-Fatah
+Islamabad,Chicken,Menu,179.93,2025-04-28,Metro
+Lahore,Tomato,Local,58.16,2025-04-28,Al-Fatah
+Lahore,Cheeni (Sugar),Al-Noor,367.52,2025-04-28,Metro
+Lahore,Chawal (Rice),Falak,201.7,2025-04-28,Al-Fatah
+Quetta,Masoor Dal,Himalaya,531.28,2025-04-28,Imtiaz
+Lahore,Salt (Namak),National,567.27,2025-04-28,Local Bazaar
+Quetta,Salt (Namak),National,300.27,2025-04-28,Al-Fatah
+Peshawar,Atta (Flour),Sunridge,549.73,2025-04-28,Al-Fatah
+Quetta,Chicken,Menu,408.5,2025-04-28,Al-Fatah
+Peshawar,Yogurt (Dahi),MilkPak,369.04,2025-04-28,Chase Up
+Islamabad,Yogurt (Dahi),MilkPak,415.1,2025-04-28,Imtiaz
+Karachi,Tomato,Local,487.87,2025-04-28,Metro
+Karachi,Cooking Oil,Habib,549.83,2025-04-28,Chase Up
+Lahore,Cheeni (Sugar),Habib,484.04,2025-04-28,Imtiaz
+Lahore,Potato,Local,389.87,2025-04-28,Imtiaz
+Peshawar,Salt (Namak),Uncle Farm,594.57,2025-04-28,Chase Up
+Islamabad,Atta (Flour),Millat,398.7,2025-04-28,Al-Fatah
+Quetta,Potato,Local,381.65,2025-04-28,Imtiaz
+Lahore,Cooking Oil,Dalda,235.38,2025-04-28,Imtiaz
+Lahore,Onion,Green Valley,101.48,2025-04-28,Al-Fatah
+Quetta,Yogurt (Dahi),Nurpur,134.22,2025-04-28,Imtiaz
+Islamabad,Atta (Flour),Millat,308.8,2025-04-28,Metro
+Lahore,Moong Dal,Uncle Farm,221.49,2025-04-28,Metro
+Peshawar,Doodh (Milk),Olpers,74.92,2025-04-28,Imtiaz
+Quetta,Moong Dal,Shan,180.15,2025-04-28,Al-Fatah
+Peshawar,Chicken,K&N,287.44,2025-04-28,Metro
+Islamabad,Cooking Oil,Dalda,77.52,2025-04-28,Local Bazaar
+Islamabad,Doodh (Milk),MilkPak,538.67,2025-04-28,Imtiaz
+Karachi,Tomato,Organic Farms,111.43,2025-04-28,Local Bazaar
+Lahore,Cooking Oil,Meezan,296.86,2025-04-28,Local Bazaar
+Quetta,Atta (Flour),Ashrafi,411.14,2025-04-28,Al-Fatah
+Quetta,Masoor Dal,Dawat,133.34,2025-04-28,Metro
+Islamabad,Chicken,Local,158.05,2025-04-28,Local Bazaar
+Quetta,Yogurt (Dahi),Local,440.35,2025-04-28,Imtiaz
+Karachi,Salt (Namak),National,362.66,2025-04-28,Chase Up
+Peshawar,Salt (Namak),Uncle Farm,403.5,2025-04-28,Chase Up
+Quetta,Yogurt (Dahi),Nurpur,313.9,2025-04-28,Metro
+Karachi,Tea (Chai),Supreme,63.5,2025-04-28,Local Bazaar
+Lahore,Potato,Organic Farms,455.32,2025-04-28,Imtiaz
+Lahore,Potato,Organic Farms,156.62,2025-04-28,Chase Up
+Quetta,Masoor Dal,Dawat,413.35,2025-04-28,Local Bazaar
+Lahore,Yogurt (Dahi),Nurpur,424.42,2025-04-28,Imtiaz
+Karachi,Doodh (Milk),MilkPak,549.53,2025-04-28,Chase Up
+Quetta,Tomato,Local,409.38,2025-04-28,Al-Fatah
+Peshawar,Doodh (Milk),Olpers,209.59,2025-04-28,Chase Up
+Lahore,Salt (Namak),National,518.37,2025-04-28,Metro
+Lahore,Doodh (Milk),Nurpur,402.51,2025-04-28,Chase Up
+Lahore,Chicken,Local,486.24,2025-04-28,Chase Up
+Quetta,Cooking Oil,Habib,350.43,2025-04-28,Al-Fatah
+Islamabad,Chicken,K&N,354.12,2025-04-28,Chase Up
+Quetta,Moong Dal,Shan,114.66,2025-04-28,Metro
+Islamabad,Tomato,Green Valley,209.81,2025-04-28,Metro
+Islamabad,Yogurt (Dahi),Local,377.63,2025-04-28,Imtiaz
+Karachi,Tomato,Organic Farms,564.88,2025-04-28,Local Bazaar
+Quetta,Tea (Chai),Supreme,110.15,2025-04-28,Metro
+Islamabad,Salt (Namak),Uncle Farm,403.07,2025-04-28,Metro
+Karachi,Cheeni (Sugar),Habib,118.28,2025-04-28,Metro
+Quetta,Tomato,Organic Farms,334.21,2025-04-28,Local Bazaar
+Islamabad,Yogurt (Dahi),MilkPak,334.17,2025-04-28,Metro
+Peshawar,Tea (Chai),Vital,516.21,2025-04-28,Al-Fatah
+Quetta,Potato,Green Valley,464.92,2025-04-28,Metro
+Quetta,Atta (Flour),Sunridge,521.79,2025-04-28,Al-Fatah
+Karachi,Onion,Local,308.47,2025-04-28,Al-Fatah
+Karachi,Cheeni (Sugar),Habib,289.79,2025-04-28,Al-Fatah
+Islamabad,Potato,Organic Farms,169.92,2025-04-28,Metro
+Islamabad,Masoor Dal,Shan,592.42,2025-04-28,Metro
+Islamabad,Potato,Green Valley,516.19,2025-04-28,Local Bazaar
+Islamabad,Potato,Local,516.87,2025-04-28,Chase Up
+Lahore,Doodh (Milk),MilkPak,204.23,2025-04-28,Al-Fatah
+Islamabad,Onion,Organic Farms,557.09,2025-04-28,Imtiaz
+Lahore,Tea (Chai),Lipton,467.4,2025-04-28,Chase Up
+Lahore,Cheeni (Sugar),Mehrban,409.26,2025-04-28,Metro
+Karachi,Eggs (Dozen),Local,528.52,2025-04-28,Metro
+Quetta,Tomato,Organic Farms,419.23,2025-04-28,Al-Fatah
+Quetta,Onion,Local,285.35,2025-04-28,Chase Up
+Karachi,Moong Dal,Dawat,56.76,2025-04-28,Al-Fatah
+Karachi,Potato,Green Valley,566.45,2025-04-28,Chase Up
+Karachi,Cheeni (Sugar),Habib,303.33,2025-04-28,Chase Up
+Peshawar,Atta (Flour),Sunridge,579.15,2025-04-28,Al-Fatah
+Karachi,Cooking Oil,Habib,178.48,2025-04-28,Local Bazaar
+Quetta,Potato,Green Valley,213.96,2025-04-28,Local Bazaar
+Karachi,Doodh (Milk),Nurpur,353.91,2025-04-28,Al-Fatah
+Peshawar,Tea (Chai),Vital,135.81,2025-04-28,Imtiaz
+Islamabad,Salt (Namak),National,103.46,2025-04-28,Al-Fatah
+Quetta,Salt (Namak),National,295.81,2025-04-28,Chase Up
+Peshawar,Moong Dal,Dawat,98.98,2025-04-28,Chase Up
+Peshawar,Chicken,Menu,158.17,2025-04-28,Chase Up
+Karachi,Onion,Green Valley,385.72,2025-04-28,Chase Up
+Lahore,Onion,Local,551.52,2025-04-28,Imtiaz
+Islamabad,Chawal (Rice),Falak,287.41,2025-04-28,Al-Fatah
+Quetta,Doodh (Milk),Olpers,399.96,2025-04-28,Metro
+Karachi,Eggs (Dozen),Local,209.53,2025-04-28,Local Bazaar
+Quetta,Doodh (Milk),MilkPak,479.9,2025-04-28,Chase Up
+Peshawar,Atta (Flour),Sunridge,541.51,2025-04-28,Al-Fatah
+Peshawar,Yogurt (Dahi),MilkPak,449.58,2025-04-28,Metro
+Quetta,Onion,Local,60.37,2025-04-28,Local Bazaar
+Peshawar,Potato,Local,157.43,2025-04-28,Imtiaz
+Lahore,Eggs (Dozen),Local,544.36,2025-04-28,Imtiaz
+Lahore,Moong Dal,Dawat,197.34,2025-04-28,Local Bazaar
+Lahore,Tea (Chai),Vital,261.76,2025-04-28,Local Bazaar
+Islamabad,Moong Dal,Shan,362.6,2025-04-28,Metro
+Islamabad,Yogurt (Dahi),Nurpur,263.22,2025-04-28,Chase Up
+Lahore,Moong Dal,Dawat,512.48,2025-04-28,Metro
+Islamabad,Doodh (Milk),Nurpur,273.1,2025-04-28,Imtiaz
+Islamabad,Onion,Local,207.06,2025-04-28,Imtiaz
+Lahore,Doodh (Milk),Olpers,278.61,2025-04-28,Metro
+Karachi,Atta (Flour),Sunridge,393.69,2025-04-28,Chase Up
+Quetta,Potato,Green Valley,374.85,2025-04-28,Imtiaz
+Islamabad,Onion,Organic Farms,483.38,2025-04-28,Imtiaz
+Quetta,Chicken,Menu,93.95,2025-04-28,Chase Up
+Islamabad,Tea (Chai),Vital,524.21,2025-04-28,Local Bazaar
+Quetta,Cooking Oil,Meezan,186.6,2025-04-28,Metro
+Peshawar,Tea (Chai),Vital,588.25,2025-04-28,Metro
+Karachi,Cheeni (Sugar),Al-Noor,147.99,2025-04-28,Al-Fatah
+Quetta,Cheeni (Sugar),Mehrban,487.58,2025-04-28,Al-Fatah
+Lahore,Chicken,Menu,95.52,2025-04-28,Local Bazaar
+Quetta,Yogurt (Dahi),Local,351.95,2025-04-28,Al-Fatah
+Lahore,Tomato,Local,92.16,2025-04-28,Chase Up
+Lahore,Onion,Local,247.15,2025-04-28,Imtiaz
+Islamabad,Yogurt (Dahi),Local,318.62,2025-04-28,Al-Fatah
+Islamabad,Chawal (Rice),Shehzad,186.86,2025-04-28,Metro
+Quetta,Atta (Flour),Ashrafi,57.81,2025-04-28,Local Bazaar
+Karachi,Salt (Namak),Uncle Farm,460.76,2025-04-28,Al-Fatah
+Quetta,Moong Dal,Shan,138.19,2025-04-28,Al-Fatah
+Lahore,Potato,Green Valley,505.74,2025-04-28,Al-Fatah
+Lahore,Yogurt (Dahi),Local,501.58,2025-04-28,Metro
+Islamabad,Chawal (Rice),Falak,295.34,2025-04-28,Metro
+Lahore,Chawal (Rice),Guard,448.14,2025-04-28,Al-Fatah
+Peshawar,Yogurt (Dahi),Nurpur,406.1,2025-04-28,Chase Up
+Peshawar,Masoor Dal,Dawat,580.1,2025-04-28,Imtiaz
+Islamabad,Salt (Namak),Tibet,398.74,2025-04-28,Imtiaz
+Peshawar,Onion,Organic Farms,121.59,2025-04-28,Al-Fatah
+Karachi,Atta (Flour),Millat,409.83,2025-04-28,Al-Fatah
+Lahore,Cooking Oil,Habib,546.27,2025-04-28,Chase Up
+Peshawar,Chawal (Rice),Shehzad,452.0,2025-04-28,Chase Up
+Peshawar,Yogurt (Dahi),MilkPak,277.39,2025-04-28,Chase Up
+Islamabad,Masoor Dal,Dawat,394.11,2025-04-28,Metro
+Quetta,Cheeni (Sugar),Mehrban,298.83,2025-04-28,Al-Fatah
+Islamabad,Chicken,Local,534.06,2025-04-28,Al-Fatah
+Peshawar,Doodh (Milk),Olpers,197.95,2025-04-28,Imtiaz
+Lahore,Chawal (Rice),Shehzad,332.88,2025-04-28,Imtiaz
+Karachi,Salt (Namak),Uncle Farm,488.02,2025-04-28,Metro
